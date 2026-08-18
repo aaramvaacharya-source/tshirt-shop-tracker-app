@@ -1,1 +1,1 @@
-# tshirt-shop-tracker-app
+A simple Python console application that allows users to purchase T‑shirts, track style and size statistics, and view total sales. The program uses functions, input validation, and a menu‑driven interface to simulate a small shop’s purchase and reporting system.
